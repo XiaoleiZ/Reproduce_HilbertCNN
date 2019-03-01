@@ -24,3 +24,7 @@ The performance hasn't been reproduced as it is described in the paper. There co
 - Training hyperparameters
 - Not totally same CNN architecture as described in the paper
 
+Improvements:
+
+- How does it make sense biologically?
+
