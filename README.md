@@ -7,3 +7,8 @@ Implemente the data preprocessing and DNN model in Keras in paper ICLR paper - [
 ```
 python hilbertCNN.py ./data/data.txt
 ```
+
+## Claim
+
+The image of the HilbertCNN architecture is captured from the paper.
+All data files in the data folder are from the paper. 
