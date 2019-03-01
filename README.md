@@ -16,3 +16,11 @@ python hilbertCNN.py ./data/data.txt
 
 The image of the HilbertCNN architecture is captured from the paper.
 All data files in the data folder are from the paper. 
+
+## ToDo
+
+The performance hasn't been reproduced as it is described in the paper. There could be several reasons:
+
+- Training hyperparameters
+- Not totally same CNN architecture as described in the paper
+
