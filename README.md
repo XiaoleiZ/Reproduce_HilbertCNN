@@ -8,6 +8,10 @@ Implemente the data preprocessing and DNN model in Keras in paper ICLR paper - [
 python hilbertCNN.py ./data/data.txt
 ```
 
+## Demo in Ipython Notebook
+
+[Link on Colab](https://colab.research.google.com/drive/1OI1fcjaXSzpBF3ZcRL_QRHF3pewGLrqy)
+
 ## Claim
 
 The image of the HilbertCNN architecture is captured from the paper.
